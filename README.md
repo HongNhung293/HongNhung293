@@ -33,7 +33,7 @@ With a background in **Information Technology**, I aim to develop my career in *
 ## 🏆 Achievements & Research Projects  
 
 ### 📘 Digital Transformation in Assessment — *From Paper-Based Tests to Electronic Tests*  
-📍 *Published in the Journal of Science and Technology, Thai Nguyen University *  
+📍 *Published in the Journal of Science and Technology, Thai Nguyen University*  
 **Role:** Team Leader, Business Analyst & Developer  
 
 - Analyzed the traditional assessment process to identify limitations and digital transformation needs.  
