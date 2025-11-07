@@ -10,7 +10,6 @@ With a background in **Information Technology**, I aim to develop my career in *
 - 💡 Interested in: **Business Analysis**, **Process Automation**, **Google Workspace Development**  
 - 🌏 Based in **Ho Chi Minh City, Vietnam**  
 - 💬 Languages: Vietnamese (native), English, Chinese (HSK Level 3)  
-- 📊 GPA: **3.56 / 4.0 (current)**  
 
 ---
 
@@ -34,7 +33,7 @@ With a background in **Information Technology**, I aim to develop my career in *
 ## 🏆 Achievements & Research Projects  
 
 ### 📘 Digital Transformation in Assessment — *From Paper-Based Tests to Electronic Tests*  
-📍 *Published in the Journal of Science and Technology, Thai Nguyen University (08/2024 – 04/2025)*  
+📍 *Published in the Journal of Science and Technology, Thai Nguyen University *  
 **Role:** Team Leader, Business Analyst & Developer  
 
 - Analyzed the traditional assessment process to identify limitations and digital transformation needs.  
@@ -45,7 +44,6 @@ With a background in **Information Technology**, I aim to develop my career in *
 ---
 
 ### 📗 Learning Management Application on Google Workspace (Project-Based Learning Model)  
-📍 *08/2025 – Present*  
 **Role:** Team Leader, Business Analyst & Developer  
 
 - Analyzed requirements from lecturers and students to define project objectives and scope.  
